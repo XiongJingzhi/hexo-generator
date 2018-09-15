@@ -101,6 +101,8 @@ menu:
   #schedule: /schedule/ || calendar
   #sitemap: /sitemap.xml || sitemap
 
+menu_nav:
+  tags: /tags
 # Enable/Disable menu icons.
 # menu_icons:
 #   enable: false
