@@ -8,17 +8,18 @@ date: 2018-07-30 15:17:51
 - QQ/微信号：1185401028@qq.com/xiongfeng94
 - davidxiong1994@gmail.com
 - [https://github.com/xiongjingzhi](https://github.com/xiongjingzhi)
+- [https://bxinwen.com](https://bxinwen.com)
 - [http://www.xiongjingzhi.cn](http://www.xiongjingzhi.cn)
 
 ## 技能清单
- - 熟悉JavaScript、HTML、CSS等前端技术；
- - 熟悉HTML5、CSS3.0、ES6等新技术；
- - 熟练使用Jquery、React/Vue、Less/Scss等前端开发技能；
- - 熟悉开发微信小程序。
- - 熟练使用npm、Gulp、webpack等构建前端工程化；
- - 熟悉Git版本管理工作流；
- - 了解PHP、Nodejs、Python；
- - MySQL数据库；
+ - 熟悉JavaScript、HTML、CSS等前端技术;
+ - 熟悉HTML5、CSS3.0、ES6等新技术;
+ - 熟练使用Jquery、React/Vue、Less/Scss等前端开发技能;
+ - 熟悉开发微信小程序;
+ - 熟练使用npm、Gulp、webpack等构建前端工程化;
+ - 熟悉Git版本管理工作流;
+ - 了解PHP,熟悉Nodejs, Python;
+ - 熟悉MySQL、MongoDB、Redis数据库操作;
 
 ## 项目经验
 
